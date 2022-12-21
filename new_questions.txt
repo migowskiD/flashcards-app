@@ -1,0 +1,3 @@
+lampa,la lámpara
+szef,el jefe
+poniedziałek,lunes
