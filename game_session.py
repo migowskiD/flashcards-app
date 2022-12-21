@@ -1,8 +1,6 @@
 import os
 from time import sleep
 
-from termcolor import colored
-
 
 class GameSession:
     def __init__(self, flashcard_set):
@@ -31,9 +29,9 @@ class GameSession:
                     print("Flashcard num " + str(index+1) + "/" + str(len(pile)))
                     keys = list(pile.keys())
                     key = keys[index]
-                    print(colored(key, 'yellow'))
+                    print(key)
                     input("Press enter to show answer:")
-                    print(colored(pile[key], 'green'))
+                    print(pile[key])
                     known = input("Did you answer correctly? Type yes(y) or no(n). If you want to save and quit type q")
                     if known == "y" or known == "Y" or known == "yes" or known == "Yes" or known == "YES":
                         self.flashcard_set.move_up(i, key)
