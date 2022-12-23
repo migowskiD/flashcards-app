@@ -1,4 +1,5 @@
 import os
+import random
 from time import sleep
 
 
@@ -22,7 +23,7 @@ class GameSession:
             #         pile.pop(question)
             #         # self.flashcard_set.move_up(i, question)
             while len(pile) > 0:
-                index = 0
+                index = self.flashcard_set.get_progress()
                 while index < len(pile):
                     os.system('cls')
                     print("You are in pile " + str(i+1) + "/5")
@@ -40,9 +41,14 @@ class GameSession:
                         return
                     else:
                         index = index + 1
+                        self.flashcard_set.set_progress(index)
                     counter += 1
                     if counter % 10 == 0:
                         self.flashcard_set.save_files()
+                self.flashcard_set.set_progress(0)
+                if len(pile) > 0:
+                    self.flashcard_set.shuffle_pile(i)
+                    pile = self.flashcard_set.get_pile(i)
         print("You finished all flashcards from this set!")
         sleep(5)
         self.flashcard_set.save_files()
