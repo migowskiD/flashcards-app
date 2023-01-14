@@ -4,8 +4,9 @@ from time import sleep
 
 
 class GameSession:
-    def __init__(self, flashcard_set):
+    def __init__(self, flashcard_set, gui):
         self.flashcard_set = flashcard_set
+        self.gui = gui
 
     def session_start(self):
         counter = 0
