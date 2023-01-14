@@ -6,7 +6,8 @@ import random
 # class representing single set of flashcards
 class FlashcardSet:
     # option create will create new set, otherwise we try to get existing one from disc
-    def __init__(self, name, option="read"):
+    def __init__(self, name, gui, option="read"):
+        self.gui = gui
         self.separator = "-"
         self.line_separator = ";\n"
         self.piles = []
@@ -65,22 +66,9 @@ class FlashcardSet:
         if not os.path.exists(self.path):
             os.makedirs(self.path)
         else:
-            while True:
-                key = input("There is already existing flashcard set with that name. Type 1 to overwrite it. Type 2 to "
-                            "change name")
-                if key == '1':
-                    break
-                elif key == '2':
-                    new_name = input("Type new name of flashcard set:")
-                    self.name = new_name
-                    self.path = 'flashcard_databases/' + new_name
-                    if not os.path.exists(self.path):
-                        os.makedirs(self.path)
-                        break
-                    else:
-                        continue
-                else:
-                    print("Incorrect key!")
+            ans = self.gui.show_message_yesno("There is already existing flashcard set with that name. Do you want to overwrite it?")
+            if ans is False:
+                raise Exception("Not overwriting existing database")
         self.add_and_shuffle_questions()
 
     def read_dataset(self):
@@ -91,7 +79,8 @@ class FlashcardSet:
                     path = self.path + '/already_known.txt'
                 self.read_file(i, path)
         except FileNotFoundError:
-            print("File not found.")
+            self.gui.show_error("File not found.")
+            # print("File not found.")
 
     def shuffle_pile(self, num):
         items = list(self.piles[num].items())
