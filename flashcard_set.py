@@ -7,6 +7,8 @@ import random
 class FlashcardSet:
     # option create will create new set, otherwise we try to get existing one from disc
     def __init__(self, name, option="read"):
+        self.separator = "-"
+        self.line_separator = ";\n"
         self.piles = []
         self.name = name
         self.path = 'flashcard_databases/' + name
@@ -37,7 +39,7 @@ class FlashcardSet:
                 path = self.path + '/already_known.txt'
             with open(path, "w", encoding='utf-8') as fp:
                 for question, answer in pile.items():
-                    fp.write(question + ";" + answer + "\n")
+                    fp.write(question + self.separator + answer + self.line_separator)
         with open(self.path + '/progress.txt', "w", encoding='utf-8') as fp:
             fp.write(str(self.progress))
 
@@ -46,11 +48,11 @@ class FlashcardSet:
 
     def read_file(self, i, path):
         file = open(path, "r", encoding='utf-8')
-        flashcards = file.read().split("\n")
+        flashcards = file.read().split(self.line_separator)
         for flashcard in flashcards:
             if flashcard == "":
                 continue
-            quest, ans = flashcard.split(";")
+            quest, ans = flashcard.split(self.separator)
             self.piles[i][quest] = ans
         file.close()
 

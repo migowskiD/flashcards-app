@@ -1,998 +1,126 @@
-począwszy od, od;a partir de
-przez, poprzez;a través de
-do, przy;a
-w dół, na dół, na dole;abajo
-porzucać, opuszczać;abandonar
-otwierać;abrir
-zupełny, całkowity,;absoluto
-wcale;en absoluto
-dziadek;abuelo
-kończyć;acabar
-może;acaso
-czyn, czynność, działanie;acción
-akceptować, zgadzać się;aceptar
-zbliżać się;acercarse
-towarzyszyć;acompañar
-uzgodnić;acordar
-pamiętać, przypominać sobie;acordarse
-postawa, stanowisko;actitud
-zajęcie, aktywność, zadanie;actividad
-czyn, akt;acto
-obecny, aktualny;actual
-grać (np. w filmie), odgrywać rolę;actuar
-przybyć, stawić się;acudir
-zgoda, ok;acuerdo
-naprzód, proszę wejść;adelante
-oprócz tego, że;además (de)
-uzyskać, nabyć;adquirir
-ostrzegać, zwracać uwagę;advertir
-dotykać, poruszać;afectar
-potwierdzać, stwierdzać;afirmar
-woda;agua
-tam;ahí
-teraz;ahora
-powietrze;aire
-do (forma skrócona od a i el);al
-osiągać, dosięgać;alcanzar
-oddalać się;alejarse
-Niemiec, niemiecki;alemán
-coś;algo
-ktoś;alguien
-jakiś, pewien;alguno/algún(skrót)
-tam;allí
-dusza;alma
-wysoki;alto
-wysokość;altura
-kochać;amar
-oba, obydwa, oboje;ambos
-Amerykanin, amerykański;americano
-kolega, przyjaciel;amigo
-miłość;amor
-szeroki, obszerny;amplio
-dodawać;añadir
-analiza;análisis
-chodzić, działać;andar
-zwierzę;animal
-rok;año
-przed, wobec, w obecności;ante
-przedtem, wcześniej;antes
-poprzedni, uprzedni, wcześniejszy;anterior
-przed;antes de
-stary, dawny, starożytny;antiguo
-ogłaszać, reklamować, zapowiadać;anunciar
-pojawiać się;aparecer
-ledwo, zaledwie;apenas
-(za)stosować;aplicar
-popierać, wspierać;apoyar
-(na)uczyć się;aprender
-(s)korzystać, wykorzystać;aprovechar
-tamten;aquel
-tamto/tamta;aquello/a
-tutaj;aquí
-drzewo;árbol
-broń;arma
-do góry, w górę;arriba
-sztuka;arte
-zapewniać, ubezpieczać;asegurar
-tak jak;así como
-więc;así que
-w ten sposób;así
-wygląd, aspekt;aspecto
-sprawa, kwestia;asunto
-uwaga, wzgląd;atención
-za, z tyłu, w tyle;atrás
-odważyć się;atreverse
-wzrastać, zwiększać;aumentar
-nawet;aun
-jeszcze;aún
-chociaż, mimo że;aunque
-prawdziwy, autentyczny;auténtico
-autor, twórca;autor
-władze, autorytet;autoridad
-iść naprzód, robić postępy;avanzar
-wczoraj;ayer
-pomoc;ayuda
-pomagać;ayudar
-niebieski;azul
-schodzić (po schodach), zjeżdżać (windą), obniżać;bajar
-niski, pod, bas;bajo
-dzielnica, osiedle;barrio
-podstawa, baza;base
-dosyć, dość, wystarczająco;bastante
-wystarczać;bastar
-pić;beber
-dobrze, dobro;bien
-biały;blanco
-usta;boca
-ramię, ręka;brazo
-dobry;buen(o)
-szukać;buscar
-koń;caballo
-głowa;cabeza
-koniec, przylądek;cabo
-doprowadzić do końca, skończyć;llevar a cabo
-każdy, każda;cada
-łańcuch, kanał telewizyjny;cadena
-upaść, spaść;caer
-ulica;calle
-łóżko;cama
-zmieniać, wymieniać;cambiar
-zmiana, wymiana;cambio
-iść, wędrować;caminar
-droga;camino
-kampania;campaña
-wieś, pole, boisko;campo
-śpiewać;cantar
-ilość;cantidad
-zdolność, pojemność;capacidad
-zdolny (do czegoś);capaz
-stolica;capital
-twarz;cara
-charakter;carácter
-mięso;carne
-wyścig, kariera, kierunek studiów;carrera
-list;carta
-dom, mieszkanie;casa
-zamężna, mężatka;casada
-żonaty;casado
-pobrać się;casarse
-prawie;casi
-przypadek;caso
-powód, przyczyna;causa
-świętować, obchodzić;celebrar
-telefon komórkowy;móvil
-centralny, główny;central
-centrum, środek, ośrodek;centro
-mózg;cerebro
-zamykać;cerrar
-dziewczyna;chica
-chłopak;chico
-niebo;cielo
-nauka;ciencia
-naukowy, naukowiec;científico
-sto;cien(to)
-jakiś, pewien, pewny;cierto
-pięć;cinco
-kino;cine
-okoliczność;circunstancia
-miasto;ciudad
-obywatel (miasta, kraju);ciudadano
-cywilny;civil
-jasne, jasny, jasno;claro
-klasa, lekcja;clase
-samochód;coche
-brać, zbierać;coger
-jechać metrem/taksówką (wziąć taksówkę);coger el metro/taxi
-umieścić, ustawić;colocar
-kolor;color
-komentować, objaśniać;comentar
-zaczynać;comenzar
-jeść;comer
-jako że, tak jak;como
-jak, jaki, jaka;cómo
-towarzysz, kolega;compañero
-kompania, towarzystwo;compañía
-kompletny, cały;completo
-kupić;comprar
-rozumieć;comprender
-sprawdzić;comprobar
-wspólny, powszechny, zwykły;común
-komunikacja, łączność, porozumiewanie się;comunicación
-z;con
-pojęcie, myśl, koncept;concepto
-świadomość, sumienie;conciencia
-konkretny, rzeczowy;concreto
-warunek, stan, sytuacja;condición
-prowadzić (pojazd);conducir
-całość, komplet;conjunto
-znać, poznać;conocer
-wiedza, znajomość;conocimiento
-konsekwencja, skutek;consecuencia
-osiągnąć, zdobyć;conseguir
-zachowywać, konserwować;conservar
-rozważać, uważać (za coś, za kogoś);considerar
-polegać (na czymś);consistir en
-stały, niezmienny;constante
-stanowić, tworzyć;constituir
-budować, konstruować;construir
-kontakt;contacto
-liczyć, opowiadać;contar
-kontemplować;contemplar
-zawierać;contener
-odpowiadać;contestar
-kontynuować;continuar
-przeciw;contra
-przeciwny;contrario
-kontrola, panowanie;control
-kontrolować, sprawdzać;controlar
-przekonać;convencer
-rozmowa;conversación
-przemieniać, nawracać;convertir
-serce;corazón
-biegać;correr
-odpowiadać (czemuś);corresponder
-zwykły, bieżący, prąd;corriente
-ciąć, obcinać, kroić;cortar
-rzecz;cosa
-zwyczaj;costumbre
-tworzyć;crear
-rosnąć, wzrastać;crecer
-wierzyć;creer
-kryzys;crisis
-przechodzić (przez), krzyżować;cruzar
-obraz, ramka, tabela;cuadro
-który;cual
-który/a?;¿cuál?
-każdy, jakikolwiek;cualquier
-kiedy;cuando
-ile;cuanto
-ile?;¿cuánto?
-pomieszczenie, kwadrans, ćwierć, czwarty;cuarto
-cztery;cuatro
-zakrywać, pokrywać;cubrir
-rachunek, konto;cuenta
-ciało;cuerpo
-sprawa, kwestia;cuestión
-kultura;cultura
-kulturalny, kulturowy;cultural
-wypełnić, spełnić;cumplir
-którego/której, czyj/a;cuyo/a
-dawać;dar
-informacja;dato
-od, z, do;de
-musieć, obowiązek, zadanie;deber
-decydować;decidir
-powiedzieć, mówić;decir
-decyzja;decisión
-deklarować;declarar
-dedykować, przeznaczać;dedicar
-palec;dedo
-bronić;defender
-obrona;defensa
-odporność;defensas
-definiować, określać, ustalać;definir
-ostateczny, definitywny;definitivo
-zostawić, pozwolić, pożyczyć;dejar
-z, od (forma skrócona od de i el);del
-pozostali, reszta;los demás
-zbyt dużo, zbyt, za bardzo;demasiado
-okazać, dowieść;demostrar
-w, wewnątrz;dentro (de)
-zależeć;depender
-prawa, prawica;derecha
-prawo, prawy, prosty;derecho
-zniknąć;desaparecer
-rozwijać;desarrollar
-rozwój;desarrollo
-nie znać, nie wiedzieć;desconocer
-odkryć;descubrir
-od kiedy;desde que
-od, z;desde
-życzyć, pragnąć, pożądać;desear
-życzenie, pragnienie;deseo
-budzić;despertar
-po;después de
-potem;después
-przeznaczenie, miejsce przeznaczenia, cel;destino
-powstrzymać, aresztować;detener
-określić, ustalić;determinar
-za, z tyłu;detrás
-dzień;día
-codzienny, dziennik;diario
-dziesięć;diez
-różnica;diferencia
-inny, różny;diferente
-trudny;difícil
-trudność;dificultad
-pieniądze;dinero
-bóg;dios
-adres, kierunek;dirección
-bezpośredni;directo
-dyrektor;director
-kierować;dirigir
-zarządzać, dysponować;disponer
-dystans, odległość;distancia
-odmienny;distinto
-różny, rozmaity;diverso
-podwójny;doble
-doktor;doctor
-ból;dolor
-gdzie;donde
-gdzie?;dónde
-niedziela;domingo
-spać;dormir
-dwa;dos
-wątpliwość;duda
-podczas;durante
-twardy, ciężki, trudny;duro
-(wy)rzucać, nalewać, nasypać,;echar
-tęsknić;echar de menos
-ekonomiczny, tani;económico
-wiek;edad
-skutek, efekt;efecto
-przykład;ejemplo
-on;él
-wybory;elecciones
-wybierać;elegir
-element, pierwiastek, żywioł;elemento
-podnosić;elevar
-zaczynać;empezar
-firma, przedsiębiorstwo;empresa
-w, na;en
-włączyć, zapalić;encender
-na (powierzchni);encima
-znaleźć, spotkać;encontrar
-spotkanie;encuentro
-energia;energía
-choroba;enfermedad
-chory;enfermo
-ogromny;enorme
-uczyć, pokazywać;enseñar
-rozumieć;entender
-dowiedzieć się;enterarse
-więc, zatem, wtedy;entonces
-wejście, wejściówka;entrada
-wchodzić;entrar
-pomiędzy;entre
-dawać, wręczać;entregar
-wysyłać;enviar
-epoka, okres;época
-drużyna, sprzęt;equipo
-błąd, pomyłka;error
-to znaczy;es decir
-uciec, zbiec;escapar
-pisać;escribir
-pisarz;escritor
-słuchać;escuchar
-ten/ta;ese/a
-wysiłek;esfuerzo
-to;eso
-przestrzeń, kosmos;espacio
-plecy;espalda
-Hiszpania;España
-hiszpański, Hiszpan;español
-specjalny;especial
-gatunek, rodzaj;especie
-nadzieja;esperanza
-mieć nadzieję, czekać;esperar
-duch;espíritu
-jest, znajduje się;está
-ustanowić;establecer
-stan, państwo;estado
-Stany Zjednoczone;Estados Unidos
-być, znajdować się;estar
-ten/ta (bez rzeczownika);éste/a
-ten/ta (z rzeczownikiem);este/a
-to;esto
-jestem;estoy
-gwiazda;estrella
-budowa, struktura;estructura
-studiować, uczyć się;estudiar
-studium, studio, pracownia,;estudio
-studia;estudios
-etap;etapa
-Europa;Europa
-europejski;europeo
-oczywisty;evidente
-unikać;evitar
-dokładny precyzyjny;exacto
-wymagać;exigir
-istnienie, egzystencja, byt;existencia
-istnieć;existir
-sukces;éxito
-doświadczenie;experiencia
-tłumaczyć;explicar
-wyrażenie;expresión
-rozpowszechniać, rozprzestrzeniać;extender
-zewnętrzny;exterior
-cudzoziemiec, zagraniczny;extranjero
-dziwny, obcy;extraño
-skrajny, kraniec;extremo
-łatwy;fácil
-brak;falta
-brakować;faltar
-rodzina;familia
-rodzinny, krewny, dobrze znany;familiar
-znany;famoso
-zjawisko, fenomen;fenómeno
-święto, impreza, dzień wolny;fiesta
-postać, kształt;figura
-wyobrażać sobie;imaginarse
-przymocować, utkwić;fijar
-zwrócić uwagę na;fijarse en
-koniec;fin
-weekend;fin de semana
-końcowy, zakończenie, finał;final
-fizyk, fizyczny;físico
-kwiat;flor
-dno, tło, głębia;fondo
-kształt, sposób;forma
-tworzyć;formar
-francuski, Francuz;francés
-Francja;Francia
-zdanie;frase
-częstotliwość;frecuencia
-czoło, przód;frente
-zimno, zimny;frío
-ogień;fuego
-źródło, fontanna;fuente
-na zewnątrz, poza;fuera de
-silny, mocny;fuerte
-siła, moc;fuerza
-funkcja;función
-funkcjonować, działać;funcionar
-podstawowy;fundamental
-piłka nożna;fútbol
-przyszłość;futuro
-wygrywać, zarabiać;ganar
-ogólny;general
-ludzie;gente
-gest, mina;gesto
-rząd;gobierno
-uderzenie, cios;golpe
-dziękuję;gracias
-duży;gran(de)
-poważny;grave
-krzyczeć;gritar
-grupa;grupo
-zachować, przechowywać;guardar
-wojna;guerra
-podobać się, lubić;gustar
-gust, smak;gusto
-czasownik posiłkowy, być, znajdować się;haber
-pokój, pomieszczenie;habitación
-zwyczajowy;habitual
-rozmawiać;hablar
-robić;hacer
-w kierunku, do, około;hacia
-znajdować się;hallarse
-aż do;hasta que
-aż, do;hasta
-fakt, załatwione, zrobione;hecho
-siostra;hermana
-brat;hermano
-piękny;hermoso
-córka;hija
-syn;hijo
-historia;historia
-historyczny;histórico
-człowiek, mężczyzna;hombre
-ramię, bark;hombro
-godzina;hora
-dzisiaj;hoy
-ludzki, człowiek;humano
-pomysł;idea
-kościół;iglesia
-taki sam, jednakowy;igual
-wizerunek, obraz, zdjęcie;imagen
-wyobrażać;imaginar
-uniemożliwić;impedir
-narzucić, wzbudzać respekt;imponer
-ważność, znaczenie;importancia
-ważny;importante
-obchodzić, być ważnym, importować;importar
-niemożliwy;imposible
-włączyć, przyłączyć;incluir
-nawet, włącznie;incluso
-wskazywać;indicar
-osobnik, jednostka;individuo
-informacja;información
-informować;informar
-angielski, Anglik;inglés
-inicjować, zaczynać;iniciar
-natychmiastowy;inmediato
-nalegać;insistir
-chwila;instante
-próbować;intentar
-zainteresowanie, zysk, procent;interés
-interesować;interesar
-wewnętrzny, wnętrze;interior
-międzynarodowy;internacional
-wprowadzać, wkładać;introducir
-iść, jechać;ir
-lewa, lewica;izquierda
-nigdy;jamás
-szef;jefe
-młody, młodzieniec;joven
-gra, zabawa;juego
-gracz;jugador
-grać, bawić się;jugar
-sąd, osąd, rozum;juicio
-razem, blisko, obok;junto
-sprawiedliwy, słuszny, akurat;justo
-warga;labio
-strona, bok;lado
-rzucać;lanzar
-długi;largo
-czytelnik;lector
-czytać;leer
-język;lengua
-mowa, język;lenguaje
-wolny;lento
-podnosić;levantar
-wstawać;levantarse
-prawo, ustawa;ley
-wolność;libertad
-wolny;libre
-książka;libro
-ograniczać;limitar
-linia;línea
-gotowy, sprytny, prosty (o materiale, włosach);listo
-literatura;literatura
-dzwonić przez telefon, nazywać, wołać;llamar
-nazywać się;llamarse
-przybyć, dotrzeć;llegar
-napełniać;llenar
-pełny, przepełniony;lleno
-nosić, mieć na sobie;llevar
-płakać;llorar
-to;lo
-szalony;loco
-zdobyć, osiągnąć;lograr
-walka;lucha
-potem, następnie;luego
-miejsce;lugar
-poniedziałek;lunes
-światło, elektryczność;luz
-matka;madre
-źle, zło;mal
-zły, niedobry, chory;malo
-jutro, rano;mañana
-rozkazywać, wysyłać;mandar
-sposób;manera
-okazywać;manifestar
-dłoń, ręka;mano
-utrzymywać, żywić;mantener
-maszyna, urządzenie;máquina
-morze;mar
-zaznaczać, wskazywać;marcar
-marsz, funkcjonowanie;marcha
-maszerować;marchar
-odejść, wyjechać;marcharse
-mąż;marido
-lecz;mas
-więcej, bardziej, plus;más
-mniej więcej;más o menos
-masa, surowe ciasto;masa
-zabić;matar
-substancja, przedmiot szkolny;materia
-materiał, surowiec;material
-maksymalny;máximo
-starszy, większy;mayor
-większość;mayoría
-średni;medio
-poprzez, za pomocą,;mediante
-lekarz;médico
-miara;medida
-w środku;en el medio
-środowisko naturalne;medio ambiente
-lepszy, lepiej;mejor
-pamięć;memoria
-młodszy, nieletni, mniejszy;menor
-mniej, minus;menos
-przynajmniej;por lo menos
-wiadomość, SMS;mensaje
-umysłowy, psychiczny;mental
-umysł;mente
-często;a menudo
-rynek, targ, (super)market,;mercado
-zasługiwać, być wartym;merecer
-miesiąc;mes
-stół;mesa
-włożyć, wsadzić;meter
-metoda, sposób;método
-metr, metro;metro
-mój, moja;mi
-mnie, mi;mí
-strach;miedo
-członek;miembro
-podczas gdy;mientras que
-tymczasem;mientras
-tysiąc;mil
-wojskowy;militar
-milion;millón
-minimalny;mínimo
-minister;ministro
-minuta;minuto
-spojrzenie;mirada
-oglądać, patrzeć;mirar
-to samo;lo mismo
-połowa;mitad
-model, modelka, wzorzec;modelo
-nowoczesny;moderno
-sposób, tryb;modo
-moment, chwila;momento
-moralny, morale;moral
-umierać;morir
-pokazywać, okazywać;mostrar
-motyw, powód;motivo
-ruszać;mover
-ruch;movimiento
-chłopak;muchacho
-dużo;mucho
-śmierć;muerte
-kobieta, żona;mujer
-światowy;mundial
-świat;mundo
-muzyka;música
-bardzo;muy
-urodzić się;nacer
-narodowy, państwowy;nacional
-nic;nada
-nikt;nadie
-naturalny;natural
-przyroda, natura;naturaleza
-potrzebny;necesario
-potrzeba;necesidad
-potrzebować;necesitar
-przeczyć, odmawiać;negar
-interes, biznes;negocio
-czarny, Murzyn;negro
-nawet nie, ani;ni siquiera
-ni, ani;ni
-dziecko, chłopiec,;niño
-dziewczynka;niña
-żaden (forma skrócona od ninguno);ningún
-poziom;nivel
-nie;no
-wieczór, noc;noche
-imię;nombre
-zauważyć;notar
-wiadomość, nowina;noticia
-powieść;novela
-nasz;nuestro
-nowy;nuevo
-liczba, numer;número
-nigdy;nunca
-albo, lub;o
-obiektywny, cel,;objetivo
-przedmiot;objeto
-zmusić, zobowiązać;obligar
-obowiązkowy;obligatorio
-dzieło, sztuka (teatralna);obra
-obserwować;observar
-otrzymać;obtener
-okazja;ocasión
-osiem;ocho
-zajmować, okupować;ocupar
-zajmować się;ocuparse
-wydarzyć się;ocurrir
-oficjalny, urzędowy;oficial
-oferować, dać;ofrecer
-słyszeć;oír
-oko;ojo
-zapomnieć;olvidar
-operacja;operación
-opinia;opinión
-pochodzenie, początek;origen
-złoto;oro
-ciemny;oscuro
-inny, kolejny;otro
-jeszcze raz;otra vez
-cierpliwy, pacjent;paciente
-ojciec;padre
-płacić;pagar
-strona;página
-kraj;país
-słowo;palabra
-papier;papel
-para (czegoś);un par de
-aby;para que
-dla, aby;para
-zatrzymać;parar
-wydawać się;parecer
-ściana;pared
-para, partner(ka);pareja
-część;parte
-uczestniczyć;participar
-prywatny, szczególny;particular
-partia, mecz;partido
-dzielić, rozbijać, wyruszać;partir
-przeszłość, miniony;pasado
-dziać się, puszczać (np. w radiu), przekazywać;pasar
-krok;paso
-pokój, spokój;paz
-klatka piersiowa, pierś;pecho
-prosić;pedir
-film;película
-niebezpieczeństwo;peligro
-niebezpieczny;peligroso
-włosy;pelo
-ból, troska, kara;pena
-myśl;pensamiento
-myśleć, zamierzać;pensar
-gorszy;peor
-mały;pequeño
-zgubić, stracić;perder
-doskonały;perfecto
-gazeta;periódico
-dziennikarz;periodista
-pozostawać, trwać;permanecer
-pozwolić;permitir
-ale;pero
-pies;perro
-suka;perra
-osoba;persona
-postać, osobistość;personaje
-osobisty;personal
-należeć;pertenecer
-ważyć, ciążyć;pesar
-być uciążliwym, natrętnym;ser pesado
-waga, nazwa waluty;peso
-stopa;pie
-pieszo;a pie
-kamień, skała;piedra
-skóra, futro, skórka;piel
-noga;pierna
-mieszkanie, piętro;piso
-przyjemność;placer
-miejsce, plac;plaza
-pełny, napełniony;pleno
-ludność, populacja;población
-biedny;pobre
-mało;poco
-móc, władza;poder
-policja, policjant(ka);policía
-polityka;política
-polityczny, polityk;político
-kłaść;poner
-na przykład;por ejemplo
-przez, po, w;por
-dlaczego?;por qué?
-ponieważ, dlatego że;porque
-posiadać;poseer
-możliwość;posibilidad
-możliwy;posible
-pozycja;posición
-praktyczny;práctico
-cena;precio
-dokładny, potrzebny;preciso
-woleć, preferować;preferir
-pytanie;pregunta
-pytać;preguntar
-prasa;prensa
-martwić się;preocuparse
-przygotować;preparar
-obecność;presencia
-przedstawiać;presentar
-obecny, teraźniejszy;presente
-prezydent, prezes;presidente
-starać się, pretendować;pretender
-pierwszy;primer(o)
-główny, podstawowy;principal
-początek, zasada;principio
-pozbawić;privar
-możliwy, prawdopodobny;probable
-problem;problema
-proces;proceso
-produkować, powodować;producir
-produkt;producto
-profesjonalny, zawodowiec;profesional
-nauczyciel;profesor
-głęboki;profundo
-program;programa
-szybko, wcześnie;pronto
-własny;propio
-proponować;proponer
-powodować, prowokować;provocar
-następny, kolejny;próximo
-projekt;proyecto
-próba, dowód, sprawdzian;prueba
-publikować;publicar
-publiczny, publiczność;público
-wioska, miasteczko;pueblo
-drzwi, brama;puerta
-stanowisko, stoisko;puesto
-punkt, kropka;punto
-czysty (bez domieszek);puro
-że, który, co;que
-co;qué
-(po)zostać, umówić się, pasować (o ubraniu);quedar
-chcieć, kochać;querer
-kto, który, która;quien
-kto?;quién
-zabierać, usuwać;quitar
-być może;quizá
-szybki;rápido
-chwila;rato
-rozum, powód;razón
-rzeczywisty, królewski;real
-rzeczywistość;realidad
-realizować, wykonać;realizar
-otrzymać;recibir
-niedawny, ostatni;reciente
-zbierać, posprzątać, odebrać (np. z lotniska);recoger
-rozpoznać, uznać;reconocer
-pamiętać, przypominać;recordar
-przejechać, przebyć;recorrer
-pamięć, wspomnienie, pamiątka;recuerdo
-odzyskać,;recuperar
-wyzdrowieć, wydobrzeć;recuperarse
-redukować, zmniejszać;reducir
-relacjonować;referir
-odnosić sie do;referirse a
-dieta, ustrój, reżim;régimen
-wracać;regresar
-śmiać się;reír
-relacja, związek;relación
-religijny;religioso
-powtarzać;repetir
-reprezentować;representar
-rozwiązywać;resolver
-odpowiedzieć;responder
-odpowiedzialny;responsable
-odpowiedź;respuesta
-reszta;resto
-rezultat, wynik;resultado
-okazać się;resultar
-zebranie, spotkanie;reunión
-połączyć, zjednoczyć;reunir
-czasopismo;revista
-król;rey
-bogaty, smaczny;rico
-ryzyko;riesgo
-rzeka;río
-czerwony;rojo
-(z)łamać, (ze)psuć, zerwać (z kimś);romper
-ubrania, odzież;ropa
-wiedzieć, smakować, potrafić;saber
-wyciągać, wyjmować, wyrywać;sacar
-sala,;sala
-poczekalnia;sala de espera
-wyjście, odlot, odjazd;salida
-wychodzić;salir
-krew;sangre
-tajemnica, sekretny;secreto
-dział, część;sector
-podążać za, śledzić, naśladować;seguir
-według;según
-drugi, sekunda;segundo
-bezpieczeństwo, ubezpieczenie;seguridad
-pewny, bezpieczny, ubezpieczenie;seguro
-sześć;seis
-tydzień;semana
-podobny;semejante
-pokazywać, zaznaczać, wskazywać;señalar
-pan;señor
-pani;señora
-wrażenie, uczucie, sensacja;sensación
-siadać;sentarse
-sens, zmysł;sentido
-uczucie, poczucie;sentimiento
-czuć, żałować;sentir
-przykro mi, przepraszam;lo siento
-oddzielić, rozłączyć;separar
-być;ser
-seria, serial;serie
-poważny;serio
-usługa, obsługa;servicio
-służyć, obsługiwać;servir
-płeć, seks;sexo
-seksualny;sexual
-jeśli, jeżeli;si
-tak;sí
-zawsze;siempre
-siedem;siete
-wiek, stulecie;siglo
-znaczyć;significar
-następny, następujący;siguiente
-cisza;silencio
-zwykły, prosty;simple
-bez;sin
-ale, lecz;sino (que)
-system;sistema
-miejsce;sitio
-sytuacja;situación
-umiejscowić;situar
-na, koperta;sobre
-społeczny;social
-społeczeństwo;sociedad
-słońce;sol
-sam;solo
-tylko;sólo
-rozwiązanie;solución
-cień;sombra
-poddać, uzależnić;someter
-dźwięczeć, dzwonić;sonar
-uśmiechać się;sonreír
-uśmiech;sonrisa
-zaskakiwać;sorprender
-podtrzymywać, utrzymywać;sostener
-jestem;soy
-jego, jej;su
-wchodzić (do góry), wjeżdżać, wsiadać (do pojazdu);subir
-zdarzać się;suceder
-podłoga, grunt;suelo
-sen, marzenie;sueño
-szczęście;suerte
-pech;mala suerte
-wystarczający, dostateczny;suficiente
-cierpieć, doświadczać, znosić;sufrir
-przezwyciężać, przewyższać;superar
-wyższy, zwierzchnik;superior
-przypuszczać;suponer
-powstać, wynurzyć się, wyłonić się;surgir
-jego/jej;suyo/a
-być może;tal vez
-taki, tego rodzaju;tal
-też, także;también
-też nie;tampoco
-tak, tak bardzo;tan
-tyle, tak bardzo;tanto/a
-późno, popołudnie;tarde
-praca, zadanie (do wykonania);tarea
-technika;técnica
-techniczny, technik;técnico
-temat;tema
-bać się, obawiać się;temer
-napinać, naciągać;tender
-mieć;tener
-trzeci;tercer(o)
-kończyć;terminar
-termin;término
-tekst;texto
-czas, pogoda;tiempo
-ziemia;tierra
-ciotka;tía
-wujek;tio
-typ, rodzaj;tipo
-rzucać, wyrzucać;tirar
-tytuł;título
-dotykać, grać (na instrumencie);tocar
-jeszcze;todavía
-wszystko, cały;todo
-brać, pić, jeść,;tomar
-opalać się;tomar el sol
-ton, dźwięk, brzmienie;tono
-zupełny;total
-pracować;trabajar
-praca;trabajo
-przynieść;traer
-próbować, mówić o;tratar de
-trzy;tres
-ty;tú
-twój, twoja;tu
-ostatni;último
-jedyny;único
-jednostka, połączenie;unidad
-łączyć, jednoczyć;unir
-jeden/jedna;uno/una
-używać, korzystać;usar
-użycie;uso
-pan, pani;usted
-używać;utilizar
-pusty;vacío
-być wartym;valer
-ok;vale
-jest warte zachodu;vale la pena
-wartość, odwaga;valor
-sąsiad, sąsiedni;vecino
-dwadzieścia;veinte
-szybkość, prędkość;velocidad
-sprzedawać;vender
-przybyć, przyjść, przyjechać;venir
-okno;ventana
-widzieć, zobaczyć;ver
-lato;verano
-prawda;verdad
-prawdziwy;verdadero
-zielony/a;verde
-ubierać;vestir
-raz;una vez
-podróż;viaje
-życie;vida
-stary/a;viejo/a
-wiatr;viento
-przemoc;violencia
-wzrok, widok;vista
-mieszkać, żyć;vivir
-żywy/a;vivo/a
-wola;voluntad
-wracać;volver
-głos;voz
-powrót, spacer;vuelta
-i;y
-jako że;ya que
-już, tak;ya
-ja;yo
-strefa;zona
+MÓWIĆ (czas teraźniejszy progresywny)-HABLAR (estar + gerundio)
+estoy hablando
+estás hablando
+está hablando
+estamos hablando
+estáis hablando
+están hablando;
+UCZYĆ (czas teraźniejszy progresywny)-APRENDER (estar + gerundio)
+estoy aprendiendo
+estás aprendiendo
+está aprendiendo
+estamos aprendiendo
+estáis aprendiendo
+están aprendiendo;
+ŻYĆ (czas teraźniejszy progresywny)-VIVIR (estar + gerundio)
+estoy viviendo
+estás viviendo
+está viviendo
+estamos viviendo
+estáis viviendo
+están viviendo;
+SPOTKAĆ (czas przeszły prosty)-ENCONTRAR (pretérito perfecto simple)
+encontré
+encontraste
+encontró
+encontramos
+encontrasteis
+encontraron;
+POJAWIAĆ SIĘ, UKAZYWAĆ SIĘ (czas przeszły prosty)-APARECER (pretérito perfecto simple)
+aparecí
+apareciste
+apareció
+aparecimos
+aparecisteis
+aparecieron;
+OTWIERAĆ (czas przeszły prosty)-ABRIR (pretérito perfecto simple)
+abrí
+abriste
+abrió
+abrimos
+abristeis
+abrieron;
+UCZYĆ SIĘ, STUDIOWAĆ (czas przeszły ciągły)-ESTUDIAR (pretérito imperfecto)
+estudiaba
+estudiabas
+estudiaba
+estudiábamos
+estudiabais
+estudiaban;
+JEŚĆ (czas przeszły ciągły)-COMER (pretérito imperfecto)
+comía
+comías
+comía
+comíamos
+comíais
+comían;
+SŁYSZEĆ (czas przeszły ciągły)-OIR (pretérito imperfecto)
+oía
+oías
+oía
+oíamos
+oíais
+oían;
+LUBIĆ, PODOBAĆ SIĘ (czas teraźniejszy dokonany)-GUSTAR (pretérito perfecto compuesto)
+he gustado
+has gustado
+ha gustado
+hemos gustado
+habéis gustado
+han gustado;
+WYDAWAĆ SIĘ, BYĆ PODOBNYM (czas teraźniejszy dokonany)-PARECER (pretérito perfecto compuesto)
+he parecido
+has parecido
+ha parecido
+hemos parecido
+habéis parecido
+han parecido;
+WOLEĆ, PREFEROWAĆ (czas teraźniejszy dokonany)-PREFERIR (pretérito perfecto compuesto)
+he preferido
+has preferido
+ha preferido
+hemos preferido
+habéis preferido	
+han preferido;
+PRZYBYĆ, DOJECHAĆ, PRZYJECHAĆ (czas przyszły prosty)-LLEGAR (futuro)
+llegaré
+llegarás
+llegará
+llegaremos
+llegaréis
+llegarán;
+WIDZIEĆ (czas przyszły prosty)-VER (futuro)
+veré
+verás
+verá
+veremos
+veréis
+verán;
+ŚMIAĆ SIĘ (czas przyszły prosty)-REIR (futuro)
+reiré
+reirás
+reirá
+reiremos
+reiréis
+reirán;
+WZIĄĆ, BRAĆ (tryb przypuszczający)-TOMAR (condicional)
+tomaría
+tomarías
+tomaría
+tomaríamos
+tomaríais
+tomarían;
+PIĆ (tryb przypuszczający)-BEBER (condicional)
+bebería
+beberías
+bebería
+beberíamos
+beberíais
+beberían;
+NUDZIĆ SIĘ (tryb przypuszczający)-ABURRIR (condicional)
+aburriría
+aburrirías
+aburriría
+aburriríamos
+aburriríais
+aburrirían;
