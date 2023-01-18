@@ -6,8 +6,7 @@ from gui import Gui
 
 
 def menu():
-    flashcard_set = None
-    gui = Gui(flashcard_set)
+    Gui()
     # while True:
     #     os.system('cls')
     #     print("Menu")
