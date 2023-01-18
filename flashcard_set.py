@@ -14,6 +14,7 @@ class FlashcardSet:
         self.name = name
         self.path = 'flashcard_databases/' + name
         self.progress = 0
+        self.pile_progress = 0
         for i in range(6):
             self.piles.append(OrderedDict())
         if option == "create":
@@ -21,6 +22,7 @@ class FlashcardSet:
         elif option == "read":
             self.read_dataset()
             self.read_progress()
+            self.read_pile_progress()
 
     def add_questions(self):
         self.read_file(0, "new_questions.txt")
@@ -61,6 +63,10 @@ class FlashcardSet:
         ans = self.piles[num].pop(question)
         if num < 5:
             self.piles[num+1][question] = ans
+        if self.progress >= len(self.piles[num]):
+            self.progress = 0
+            self.read_pile_progress()
+            self.shuffle_pile(self.get_pile_progress())
 
     def create_dataset(self):
         if not os.path.exists(self.path):
@@ -91,9 +97,33 @@ class FlashcardSet:
         with open(self.path + '/progress.txt', "r", encoding='utf-8') as fp:
             self.progress = int(fp.read())
 
+    def read_pile_progress(self):
+        for i, pile in enumerate(self.piles):
+            if len(pile) > 0:
+                self.pile_progress = i
+                return
+
     def get_progress(self):
         return self.progress
 
     def set_progress(self, num):
         self.progress = num
+
+    def inc_progress(self):
+        self.progress += 1
+        if self.progress >= len(self.piles[self.pile_progress]):
+            self.progress = 0
+            self.read_pile_progress()
+            self.shuffle_pile(self.get_pile_progress())
+
+    def get_pile_progress(self):
+        return self.pile_progress
+
+    def get_question(self):
+        keys = list(self.piles[self.pile_progress].keys())
+        key = keys[self.progress]
+        return key, self.piles[self.pile_progress][key]
+
+    def get_pile_size(self):
+        return len(self.piles[self.pile_progress])
 
