@@ -1,6 +1,7 @@
 import os
 import tkinter as tk
 from tkinter import messagebox
+from PIL import Image, ImageTk
 
 from flashcard_set import FlashcardSet
 
@@ -14,8 +15,10 @@ class Gui:
         self.root.title("Flashcards App")
         self.font = ('Arial', 18)
         self.font_small = ('Arial', 12)
-        self.height = 700
+        self.height = 900
         self.width = 700
+        self.inner_height = self.height - 100
+        self.inner_width = self.width - 150
         self.fg = "white"
         self.bg = "#6e7b8b"
         # centering window
@@ -27,8 +30,8 @@ class Gui:
         self.frame.grid(row=0, column=0)
         self.frame.pack_propagate(False)
 
-        self.inner_frame = tk.Frame(self.frame, height=self.height - 150, width=self.width - 150, bg=self.bg)
-        self.inner_frame.pack(padx=75, pady=75)
+        self.inner_frame = tk.Frame(self.frame, height=self.inner_height, width=self.inner_width, bg=self.bg)
+        self.inner_frame.pack(padx=(self.width-self.inner_width)/2, pady=(self.height-self.inner_height)/2)
         self.inner_frame.pack_propagate(False)
 
         self.show_flashcard_choose()
@@ -71,9 +74,16 @@ class Gui:
         tk.Label(self.inner_frame, text=str(q_num + 1) + "/" + str(self.flashcard_set.get_pile_size()),
                  font=self.font_small, bg=self.bg, fg=self.fg).pack(padx=10)
         if ".png" in question:
-            img = tk.PhotoImage(file="images/" + question)
-            flag = tk.Label(self.inner_frame, image=img)
-            flag.image = img
+            img = Image.open("images/" + question)
+            if img.height > self.inner_height*0.6:
+                scale = self.inner_height*0.6/img.height
+                img = img.resize((int(img.width*scale), int(img.height*scale)), Image.ANTIALIAS)
+            if img.width > self.inner_width:
+                scale = self.inner_width/img.width
+                img = img.resize((int(img.width * scale), int(img.height * scale)), Image.ANTIALIAS)
+            img_tk = ImageTk.PhotoImage(img)
+            flag = tk.Label(self.inner_frame, image=img_tk)
+            flag.image = img_tk
             flag.pack()
         else:
             tk.Label(self.inner_frame, text=question, font=self.font_small, bg=self.bg, fg=self.fg).pack(padx=10)
