@@ -1,10 +1,8 @@
 import os
-import sys
 import tkinter as tk
 from tkinter import messagebox
 
 from flashcard_set import FlashcardSet
-from game_session import GameSession
 
 DATABASES_PATH = 'flashcard_databases/'
 
@@ -72,17 +70,23 @@ class Gui:
             padx=10)
         tk.Label(self.inner_frame, text=str(q_num + 1) + "/" + str(self.flashcard_set.get_pile_size()),
                  font=self.font_small, bg=self.bg, fg=self.fg).pack(padx=10)
-        tk.Label(self.inner_frame, text=question, font=self.font_small, bg=self.bg, fg=self.fg).pack(padx=10)
+        if ".png" in question:
+            img = tk.PhotoImage(file="images/" + question)
+            flag = tk.Label(self.inner_frame, image=img)
+            flag.image = img
+            flag.pack()
+        else:
+            tk.Label(self.inner_frame, text=question, font=self.font_small, bg=self.bg, fg=self.fg).pack(padx=10)
 
         var = tk.IntVar()
         button = tk.Button(self.inner_frame, text="Continue", font=self.font, bg=self.bg, fg=self.fg, cursor="hand2",
                            command=lambda: [var.set(1), button.destroy()])
-        button.place(relx=.5, rely=.5, anchor="center")
+        button.place(relx=.5, rely=.9, anchor="center")
         button.wait_variable(var)
         tk.Label(self.inner_frame, text=answer, font=self.font_small, bg=self.bg, fg=self.fg).pack(padx=10)
 
-        tk.Button(self.inner_frame, text="Hard", font=self.font, bg=self.bg, fg=self.fg, cursor="hand2", command=lambda: [self.flashcard_set.inc_progress(), self.show_question()]).place(relx=.4, rely=.6, anchor="center")
-        tk.Button(self.inner_frame, text="Easy", font=self.font, bg=self.bg, fg=self.fg, cursor="hand2", command=lambda: [self.flashcard_set.move_up(self.flashcard_set.get_pile_progress(), question), self.show_question()]).place(relx=.6, rely=.6, anchor="center")
+        tk.Button(self.inner_frame, text="Hard", font=self.font, bg=self.bg, fg=self.fg, cursor="hand2", command=lambda: [self.flashcard_set.inc_progress(), self.show_question()]).place(relx=.4, rely=.9, anchor="center")
+        tk.Button(self.inner_frame, text="Easy", font=self.font, bg=self.bg, fg=self.fg, cursor="hand2", command=lambda: [self.flashcard_set.move_up(self.flashcard_set.get_pile_progress(), question), self.show_question()]).place(relx=.6, rely=.9, anchor="center")
 
     def session_start(self):
         if self.flashcard_set is None:
@@ -90,8 +94,6 @@ class Gui:
             messagebox.showerror(title="Error", message="Create or choose existing flashcard set first!")
             return
         self.show_question()
-        # game_session = GameSession(self.flashcard_set, self)
-        # game_session.session_start()
 
     def choose_dataset(self):
         self.clear_widgets(self.inner_frame)

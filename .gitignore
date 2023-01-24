@@ -138,5 +138,7 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-# Databases
+# Resources
 *_databases/
+new_questions_sets/
+*.png
