@@ -8,7 +8,7 @@ class FlashcardSet:
     # option create will create new set, otherwise we try to get existing one from disc
     def __init__(self, name, gui, option="read"):
         self.gui = gui
-        self.separator = "-"
+        self.separator = "--"
         self.line_separator = ";\n"
         self.piles = []
         self.name = name

@@ -1,123 +1,123 @@
-MÓWIĆ (czas teraźniejszy progresywny)-HABLAR (estar + gerundio)
+MÓWIĆ (czas teraźniejszy progresywny)--HABLAR (estar + gerundio)
 estoy hablando
 estás hablando
 está hablando
 estamos hablando
 estáis hablando
 están hablando;
-UCZYĆ (czas teraźniejszy progresywny)-APRENDER (estar + gerundio)
+UCZYĆ (czas teraźniejszy progresywny)--APRENDER (estar + gerundio)
 estoy aprendiendo
 estás aprendiendo
 está aprendiendo
 estamos aprendiendo
 estáis aprendiendo
 están aprendiendo;
-ŻYĆ (czas teraźniejszy progresywny)-VIVIR (estar + gerundio)
+ŻYĆ (czas teraźniejszy progresywny)--VIVIR (estar + gerundio)
 estoy viviendo
 estás viviendo
 está viviendo
 estamos viviendo
 estáis viviendo
 están viviendo;
-SPOTKAĆ (czas przeszły prosty)-ENCONTRAR (pretérito perfecto simple)
+SPOTKAĆ (czas przeszły prosty)--ENCONTRAR (pretérito perfecto simple)
 encontré
 encontraste
 encontró
 encontramos
 encontrasteis
 encontraron;
-POJAWIAĆ SIĘ, UKAZYWAĆ SIĘ (czas przeszły prosty)-APARECER (pretérito perfecto simple)
+POJAWIAĆ SIĘ, UKAZYWAĆ SIĘ (czas przeszły prosty)--APARECER (pretérito perfecto simple)
 aparecí
 apareciste
 apareció
 aparecimos
 aparecisteis
 aparecieron;
-OTWIERAĆ (czas przeszły prosty)-ABRIR (pretérito perfecto simple)
+OTWIERAĆ (czas przeszły prosty)--ABRIR (pretérito perfecto simple)
 abrí
 abriste
 abrió
 abrimos
 abristeis
 abrieron;
-UCZYĆ SIĘ, STUDIOWAĆ (czas przeszły ciągły)-ESTUDIAR (pretérito imperfecto)
+UCZYĆ SIĘ, STUDIOWAĆ (czas przeszły ciągły)--ESTUDIAR (pretérito imperfecto)
 estudiaba
 estudiabas
 estudiaba
 estudiábamos
 estudiabais
 estudiaban;
-JEŚĆ (czas przeszły ciągły)-COMER (pretérito imperfecto)
+JEŚĆ (czas przeszły ciągły)--COMER (pretérito imperfecto)
 comía
 comías
 comía
 comíamos
 comíais
 comían;
-SŁYSZEĆ (czas przeszły ciągły)-OIR (pretérito imperfecto)
+SŁYSZEĆ (czas przeszły ciągły)--OIR (pretérito imperfecto)
 oía
 oías
 oía
 oíamos
 oíais
 oían;
-LUBIĆ, PODOBAĆ SIĘ (czas teraźniejszy dokonany)-GUSTAR (pretérito perfecto compuesto)
+LUBIĆ, PODOBAĆ SIĘ (czas teraźniejszy dokonany)--GUSTAR (pretérito perfecto compuesto)
 he gustado
 has gustado
 ha gustado
 hemos gustado
 habéis gustado
 han gustado;
-WYDAWAĆ SIĘ, BYĆ PODOBNYM (czas teraźniejszy dokonany)-PARECER (pretérito perfecto compuesto)
+WYDAWAĆ SIĘ, BYĆ PODOBNYM (czas teraźniejszy dokonany)--PARECER (pretérito perfecto compuesto)
 he parecido
 has parecido
 ha parecido
 hemos parecido
 habéis parecido
 han parecido;
-WOLEĆ, PREFEROWAĆ (czas teraźniejszy dokonany)-PREFERIR (pretérito perfecto compuesto)
+WOLEĆ, PREFEROWAĆ (czas teraźniejszy dokonany)--PREFERIR (pretérito perfecto compuesto)
 he preferido
 has preferido
 ha preferido
 hemos preferido
 habéis preferido	
 han preferido;
-PRZYBYĆ, DOJECHAĆ, PRZYJECHAĆ (czas przyszły prosty)-LLEGAR (futuro)
+PRZYBYĆ, DOJECHAĆ, PRZYJECHAĆ (czas przyszły prosty)--LLEGAR (futuro)
 llegaré
 llegarás
 llegará
 llegaremos
 llegaréis
 llegarán;
-WIDZIEĆ (czas przyszły prosty)-VER (futuro)
+WIDZIEĆ (czas przyszły prosty)--VER (futuro)
 veré
 verás
 verá
 veremos
 veréis
 verán;
-ŚMIAĆ SIĘ (czas przyszły prosty)-REIR (futuro)
+ŚMIAĆ SIĘ (czas przyszły prosty)--REIR (futuro)
 reiré
 reirás
 reirá
 reiremos
 reiréis
 reirán;
-WZIĄĆ, BRAĆ (tryb przypuszczający)-TOMAR (condicional)
+WZIĄĆ, BRAĆ (tryb przypuszczający)--TOMAR (condicional)
 tomaría
 tomarías
 tomaría
 tomaríamos
 tomaríais
 tomarían;
-PIĆ (tryb przypuszczający)-BEBER (condicional)
+PIĆ (tryb przypuszczający)--BEBER (condicional)
 bebería
 beberías
 bebería
 beberíamos
 beberíais
 beberían;
-NUDZIĆ SIĘ (tryb przypuszczający)-ABURRIR (condicional)
+NUDZIĆ SIĘ (tryb przypuszczający)--ABURRIR (condicional)
 aburriría
 aburrirías
 aburriría
